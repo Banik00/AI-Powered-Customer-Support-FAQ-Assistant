@@ -1,0 +1,51 @@
+﻿faq_id,category,question,answer
+1,E-commerce,How can I create an account?,"Select Sign Up on the website or app, enter the required details, and follow the verification instructions."
+2,E-commerce,How do I reset my password?,Select Forgot Password on the sign-in page and follow the password-reset instructions sent to your registered email address.
+3,E-commerce,How can I update my profile information?,"Sign in, open Account Settings or My Profile, update the available fields, and save your changes."
+4,E-commerce,How do I place an order?,"Browse the products, add the items you want to your cart, enter delivery details, and complete checkout."
+5,E-commerce,Can I change my order after placing it?,Order changes depend on the order's processing status. Check your order details or contact the seller's support team as soon as possible.
+6,E-commerce,How can I cancel an order?,"Open your order history, select the order, and check whether a cancellation option is available. If it is unavailable, contact support."
+7,E-commerce,Where can I track my order?,"Open My Orders, select the relevant order, and use the tracking information shown there, if available."
+8,E-commerce,What should I do if my order is delayed?,"Check the latest tracking update first. If there is no useful update, contact the seller or delivery support with your order number."
+9,E-commerce,What payment methods are accepted?,Accepted payment methods vary by store. Review the payment options displayed at checkout before placing your order.
+10,E-commerce,Why was my payment declined?,"Check that your payment details are correct, your payment method is active, and sufficient funds or credit are available. You can also contact your bank or payment provider."
+11,E-commerce,Was I charged if my payment failed?,A failed payment may still create a temporary authorization. Check your bank or payment-provider statement and contact the provider if the amount is not reversed within its stated timeframe.
+12,E-commerce,How do I request a refund?,Review the store's refund policy and submit a request through the order details or customer-support channel.
+13,E-commerce,How long does a refund take?,Refund processing time depends on the store and payment provider. Check the refund confirmation and contact support if the stated timeframe has passed.
+14,E-commerce,Can I return a product?,Return eligibility depends on the product and the store's return policy. Review the policy and start a return from your order details if eligible.
+15,E-commerce,What should I do if I receive a damaged item?,"Take clear photos of the item and its packaging, keep the order details, and contact customer support to report the damage."
+16,E-commerce,What should I do if I receive the wrong item?,"Keep the packaging and order information, then contact customer support with a description or photo of the item received."
+17,E-commerce,Can I change my delivery address?,Address changes may be possible before dispatch. Check your order details or contact support immediately.
+18,E-commerce,Do you offer international shipping?,Shipping availability depends on the store and destination. Enter your address at checkout to see available delivery options.
+19,E-commerce,How can I contact customer support?,Use the Contact Us or Help section on the website or app to find the available support channels.
+20,SaaS,How do I start using the software?,"Create an account, sign in, and follow the product's onboarding instructions or setup guide."
+21,SaaS,How can I change my subscription plan?,"Open Account or Billing Settings, review the available plans, and follow the instructions to change your subscription."
+22,SaaS,Where can I find my invoices?,Open the Billing or Payments section of your account to view or download available invoices.
+23,SaaS,How do I update my billing information?,"Open Billing Settings, edit the available billing details, and save the changes."
+24,SaaS,How can I cancel my subscription?,"Review the subscription terms, then use the cancellation option in Billing or Account Settings if one is available."
+25,SaaS,Will I lose my data if I cancel?,Data access and retention after cancellation depend on the service's terms. Export important information and review the provider's data-retention policy before cancelling.
+26,SaaS,How do I invite team members?,"Open your workspace or team settings, choose Invite Members, and enter the email addresses of the people you want to invite."
+27,SaaS,I cannot log in to my account. What should I do?,"Check your email and password, confirm that you are using the correct sign-in method, and try the password-reset process if needed."
+28,SaaS,How can I report a technical issue?,"Use the Help or Support option and include the steps to reproduce the issue, the time it occurred, and any relevant error message."
+29,SaaS,Does the application support mobile devices?,"Check the product's system requirements or app listing for supported mobile devices, operating systems, and browser versions."
+30,SaaS,How can I export my data?,Look for an Export or Download option in the relevant workspace or account settings. Available formats and export permissions depend on the service.
+31,Education,How do I enroll in a course?,"Open the course page, review its details and requirements, and select Enroll or the equivalent registration option."
+32,Education,Where can I find my course materials?,"Sign in to the learning platform, open your enrolled course, and look in the Materials, Resources, or Lessons section."
+33,Education,How do I submit an assignment?,"Open the relevant course and assignment, review the submission instructions, upload the required file, and confirm submission."
+34,Education,Can I resubmit an assignment?,Resubmission rules depend on the course settings and instructor policy. Check the assignment page or contact your instructor.
+35,Education,Where can I see my grades?,"Open your course or student dashboard and look for Grades, Results, or Academic Progress."
+36,Education,What should I do if I cannot access a lecture?,"Check your internet connection and sign-in status, then try another supported browser. If the problem continues, contact platform support with the lecture details."
+37,Education,How do I join a live online class?,Open the course schedule or class page and use the meeting link provided for the scheduled session.
+38,Education,Can I download learning materials?,Download availability depends on the course settings. Check the resource page for a Download option or ask the course instructor.
+39,Education,How do I get a course completion certificate?,Check the course completion requirements and certificate section. Certificates are generally made available only after the required activities are completed.
+40,Education,Who should I contact about course content?,Contact the course instructor or teaching team using the communication method listed in your course.
+41,General Support,What information should I include when contacting support?,"Include a clear description of the issue, the steps you took, relevant dates, and any non-sensitive reference number. Do not send passwords or full payment-card details."
+42,General Support,How can I check whether a service is unavailable?,Check the provider's official status page or service announcements for current incidents and maintenance updates.
+43,General Support,How do I update my email address?,"Open your account or profile settings, choose the email update option if available, and complete any verification steps."
+44,General Support,Why am I not receiving verification emails?,"Check your spam or junk folder, confirm that the email address is correct, and request a new verification message. If it still does not arrive, contact support."
+45,General Support,How can I provide feedback?,Use the feedback option in the application or contact the support team with your comments and suggestions.
+46,General Support,Is my personal information secure?,"Review the service's privacy policy and security information to understand how personal information is collected, used, stored, and protected."
+47,General Support,How do I delete my account?,"Review the account deletion instructions and any data-retention information, then submit a deletion request through account settings or customer support."
+48,General Support,What should I do if I see an unfamiliar charge?,"Check your recent orders and subscriptions. If you do not recognize the charge, contact your bank or payment provider and the relevant service's support team."
+49,General Support,Can I speak to a human support agent?,"Check the Contact Us or Help section for available human-support options, including chat, email, or phone where offered."
+50,General Support,How do I report a security concern?,"Contact the service provider through its official security or support reporting channel. Include relevant details but do not share passwords, secret keys, or other credentials."
